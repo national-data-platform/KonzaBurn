@@ -1,3 +1,7 @@
+results/
+RESULTS/
+images/
+IMAGES/
 env/
 *.jpg
 *.jpeg
