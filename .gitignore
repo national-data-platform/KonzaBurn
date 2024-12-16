@@ -1,0 +1,10 @@
+results/
+RESULTS/
+images/
+IMAGES/
+env/
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.svg
